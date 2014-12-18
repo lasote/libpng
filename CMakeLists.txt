@@ -45,7 +45,7 @@ LIST(REMOVE_ITEM BII_BLOCK_EXES contrib_gregbook_rpng2-x)
 LIST(REMOVE_ITEM BII_BLOCK_EXES contrib_gregbook_wpng)
 LIST(REMOVE_ITEM BII_BLOCK_EXES contrib_libtests_tarith)
  
-IF(WIN32)
+IF(WIN32 OR APPLE)
 	LIST(REMOVE_ITEM BII_BLOCK_EXES contrib_libtests_timepng)
 ELSE()
 
