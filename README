@@ -1,3 +1,11 @@
+Libpng 1.6.15 - November 20, 2014 (shared library 16.0)
+
+The source code if this block (entirely) is on this github fork of libuv (on branch **v1.6.15_biicode**)
+
+https://github.com/lasote/libuv (Branched from https://github.com/glennrp/libpng)
+
+
+-----------------------------------------------------------------------------
 README for libpng version 1.6.15 - November 20, 2014 (shared library 16.0)
 See the note about version numbers near the top of png.h
 
